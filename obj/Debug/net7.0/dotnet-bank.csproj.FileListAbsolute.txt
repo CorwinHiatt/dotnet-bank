@@ -1,0 +1,15 @@
+/Users/corwinhiatt/bocacode/dotnet-bank/bin/Debug/net7.0/dotnet-bank
+/Users/corwinhiatt/bocacode/dotnet-bank/bin/Debug/net7.0/dotnet-bank.deps.json
+/Users/corwinhiatt/bocacode/dotnet-bank/bin/Debug/net7.0/dotnet-bank.runtimeconfig.json
+/Users/corwinhiatt/bocacode/dotnet-bank/bin/Debug/net7.0/dotnet-bank.dll
+/Users/corwinhiatt/bocacode/dotnet-bank/bin/Debug/net7.0/dotnet-bank.pdb
+/Users/corwinhiatt/bocacode/dotnet-bank/obj/Debug/net7.0/dotnet-bank.csproj.AssemblyReference.cache
+/Users/corwinhiatt/bocacode/dotnet-bank/obj/Debug/net7.0/dotnet-bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/corwinhiatt/bocacode/dotnet-bank/obj/Debug/net7.0/dotnet-bank.AssemblyInfoInputs.cache
+/Users/corwinhiatt/bocacode/dotnet-bank/obj/Debug/net7.0/dotnet-bank.AssemblyInfo.cs
+/Users/corwinhiatt/bocacode/dotnet-bank/obj/Debug/net7.0/dotnet-bank.csproj.CoreCompileInputs.cache
+/Users/corwinhiatt/bocacode/dotnet-bank/obj/Debug/net7.0/dotnet-bank.dll
+/Users/corwinhiatt/bocacode/dotnet-bank/obj/Debug/net7.0/refint/dotnet-bank.dll
+/Users/corwinhiatt/bocacode/dotnet-bank/obj/Debug/net7.0/dotnet-bank.pdb
+/Users/corwinhiatt/bocacode/dotnet-bank/obj/Debug/net7.0/dotnet-bank.genruntimeconfig.cache
+/Users/corwinhiatt/bocacode/dotnet-bank/obj/Debug/net7.0/ref/dotnet-bank.dll
